@@ -1,0 +1,12 @@
+#cat-logo {
+  height: 120px;
+}
+
+ul {
+  font-size: 24px;
+}
+
+.nav-item {
+  display: inline;
+  padding: 20px;
+}
