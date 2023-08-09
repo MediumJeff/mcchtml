@@ -10,3 +10,53 @@ ul {
   display: inline;
   padding: 20px;
 }
+
+.navbar {
+  background-color: lightblue;
+}
+
+#menu {
+  display: flex;
+  margin-left: auto;
+}
+
+h3 {
+  text-align: center;
+}
+#starter {
+  margin-top: 25px;
+}
+
+#form {
+  text-align: center;
+  margin: auto;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+#afford {
+  background-color: gold;
+  height: auto;
+}
+
+p {
+  font-size: 24px;;
+}
+
+#clean {
+  background-color: green;
+}
+
+.icon {
+  float: left;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+
+#video {
+  display: flex;
+  margin: auto;
+  margin-bottom: 50px;
+}
