@@ -81,9 +81,8 @@ h3 {
 
 .folio {
     display: flex;
-    margin: auto;
     padding: 20px;
-    margin: 10px;
+    margin-right: 10px;
 }
 
 #webdev {
